@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content:right;
+    background-color: black;
+    color: white;
+    padding:20px ;
+    margin-top: 20px;
+}
+#right{
+  display: flex;
+  justify-content: center; 
+  gap: 40px; 
+  
+}
+#left{
+    display: flex;
+    justify-content: left;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    margin-top: 20px;
+    gap: 50px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color:darkgoldenrod;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+#cent{
+    display: flex;
+    color: white;
+    gap:20px; 
+}
+#L{
+    display: flex;
+    color: white;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    gap:20px;
+    font-size: 20px;
+}
+
+#R{
+    display: flex;
+    color: white;
+    gap: 20px; 
+  }
+
+
